@@ -118,7 +118,7 @@ const developer = {
 ## 🌌 Coding Nebula
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourfriend&theme=react-dark&hide_border=true&area=true" width="90%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emad Ahmed&theme=react-dark&hide_border=true&area=true" width="90%" alt="Activity Graph">
 </div>
 
 ## 🔭 Weekly Development Breakdown
