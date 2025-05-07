@@ -3,7 +3,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Digital+Architect;Code+Explorer;Web+Craftsman" alt="Typing SVG" />
   
-  [![Spotify](https://novatorem-mr-devp-emad.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+ <img src="https://i.imgur.com/your-image-id.png" width="100%" />
+
 
 </div>
 
